@@ -1,0 +1,3 @@
+#!/bin/bash 
+gunzip < /mnt/c/Users/ellu3/work/week6/cwl-dat tar -xf - -C /mnt/c/Users/ellu3/work/week7/HW
+
